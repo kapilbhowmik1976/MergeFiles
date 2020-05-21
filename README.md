@@ -21,7 +21,8 @@ If any files are not sorted, following message will display
 
 Code flow:
 1. Used merge sort technique to merge 2 files which gives O(N) performance
-2. Used ArrayList data structure to store content of the file to make sure data is ordered(sorted)
+2. Used ArrayList data structure to store content of the file to make sure data is ordered(sorted). 
+3. Merging happens in memory to improve performance
 
 
 
